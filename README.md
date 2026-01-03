@@ -51,11 +51,14 @@
 
 <div align="center">
   <h3>Technologies:</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,docker,supabase,vercel,netlify,postman,figma,pr,ae&theme=dark" />
-  </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,docker,supabase,vercel,netlify,postman,figma,pr,ae&theme=dark" />
+    </a>
+    <a href="https://n8n.io" target="_blank" style="margin-left: 10px;">
+      <img src="https://avatars.githubusercontent.com/u/45480450?s=48&v=4" width="48" height="48" alt="n8n" style="border-radius: 5px;" />
+    </a>
+  </div>
 </div>
 
 <br>

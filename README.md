@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>I'm Sumanth Katta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h1>Hi, I'm Sumanth Katta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   
   <h3>AI Automation Engineer | Creative Technologist | Python Developer</h3>
   
@@ -52,10 +52,21 @@
 <div align="center">
   <h3>Technologies:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,linux,git,github,vscode,figma,pr,ae,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,docker,supabase,vercel,netlify,postman,figma,pr,ae&theme=dark" />
   </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
 </div>
 
 <br>
 
+<div align="center">
+  <h3>Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
 
+  <br>
+  
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=sumanthkatta_dev&icon=0&color=0" />
+  </a>
+</div>

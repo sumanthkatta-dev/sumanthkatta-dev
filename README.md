@@ -53,7 +53,7 @@
   <h3>Technologies:</h3>
   <div style="display: flex; align-items: center; justify-content: center;">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,docker,supabase,vercel,netlify,postman,figma,pr,ae&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,docker,supabase,vercel,netlify,postman,figma&theme=dark" />
     </a>
     <a href="https://n8n.io" target="_blank" style="margin-left: 10px;">
       <img src="https://avatars.githubusercontent.com/u/45480450?s=48&v=4" width="48" height="48" alt="n8n" style="border-radius: 6px;" />

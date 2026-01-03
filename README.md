@@ -56,7 +56,7 @@
       <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,docker,supabase,vercel,netlify,postman,figma,pr,ae&theme=dark" />
     </a>
     <a href="https://n8n.io" target="_blank" style="margin-left: 10px;">
-      <img src="https://avatars.githubusercontent.com/u/45480450?s=48&v=4" width="48" height="48" alt="n8n" style="border-radius: 5px;" />
+      <img src="https://avatars.githubusercontent.com/u/45480450?s=48&v=4" width="48" height="48" alt="n8n" style="border-radius: 6px;" />
     </a>
   </div>
 </div>

@@ -58,10 +58,4 @@
 
 <br>
 
-<div align="center">
-### Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=sumanthkatta_dev&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>

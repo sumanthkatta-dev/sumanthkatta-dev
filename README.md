@@ -4,8 +4,9 @@
   <h3>AI Automation Engineer | Creative Technologist | Python Developer</h3>
   
   <p>
-    <em>I sit at the intersection of <b>Code</b>, <b>Security</b>, and <b>Cinematography</b>.<br>
+    <em>I sit at the intersection of <b>Code</b>, <b>Security</b>, .<br>
     Building autonomous systems that look as good as they work.</em>
+    
   </p>
 
   <a href="https://git.io/typing-svg">

@@ -27,7 +27,7 @@
 <div align="center">
   <h3>Let's Connect:</h3>
   
-  <a href="https://www.linkedin.com/in/sumanth-58444739a" target="_blank">
+  <a href="https://www.linkedin.com/in/sumanthkattadev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
 
-  <a href="https://sumanthkatta-portfolio.vercel.app/" target="_blank">
+  <a href="https://sumanthkatta.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
   </a>
   

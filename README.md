@@ -23,10 +23,10 @@ I build full-stack web apps and AI tools, and I like shipping things real people
 | [**Airlock**](https://github.com/sumanthkatta-dev/airlock-dlp-security) | Browser extension that stops API keys and PII from being pasted into public LLMs | JavaScript, Chrome Extensions API |
 
 ### Tech I use
-**Languages:** Python · TypeScript · JavaScript · Java (learning)
-**Web:** React · Next.js · Node.js · FastAPI · Tailwind
-**Data & cloud:** Firebase · PostgreSQL · Google Cloud Run · Vercel · Docker
-**AI:** Gemini API · RAG · MCP · prompt engineering
+- **Languages:** Python · TypeScript · JavaScript · Java (learning)
+- **Web:** React · Next.js · Node.js · FastAPI · Tailwind
+- **Data & cloud:** Firebase · PostgreSQL · Google Cloud Run · Vercel · Docker
+- **AI:** Gemini API · RAG · MCP · prompt engineering
 
 ### Reach me
 [Portfolio](https://sumanthkatta.dev) · [LinkedIn](https://www.linkedin.com/in/sumanthkattadev) · [Email](mailto:sumanthkatta7075@gmail.com)

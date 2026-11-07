@@ -3,8 +3,6 @@
 CS (AI & ML) student at CMRCET, Hyderabad (class of 2027) and AI Web Development intern at **InAmigos Foundation**.
 I build full-stack web apps and AI tools, and I like shipping things real people use.
 
-**Looking for:** SWE internships for 2027 · open to startups and big tech
-
 ---
 
 ### What I'm working on

@@ -1,14 +1,14 @@
 # Hi, I'm Sumanth 👋
 
-CS (AI & ML) student at CMRCET, Hyderabad (class of 2027) and AI Web Development intern at **InAmigos Foundation**.
-I build full-stack web apps and AI tools, and I like shipping things real people use.
+CSE (AI & ML) student at CMRCET, Hyderabad (class of 2027).
+I build full-stack web apps and AI tools, and I like shipping things real people use. Previously a web development intern at **InAmigos Foundation**.
 
 ---
 
 ### What I'm working on
 - Building real-time features and a cleaner backend for **Last Seat** (live campus bus tracking)
 - Learning Java, DSA and Docker, and writing up what I build
-- Interning at InAmigos Foundation: rebuilding the foundation's website from scratch
+- **Claude Island**: a Dynamic Island-style pill for Windows that shows Claude usage limits (testing on real hardware next)
 
 ### Featured projects
 
@@ -19,6 +19,7 @@ I build full-stack web apps and AI tools, and I like shipping things real people
 | [**Mentra**](https://github.com/sumanthkatta-dev/Mentra-AI) · [live](https://mentra-346119786628.asia-southeast1.run.app) | AI career-roadmap agent, built at Google Cloud Gen AI Academy APAC | React, Express, Gemini, Firebase, Cloud Run |
 | [**ContextBridge AI**](https://github.com/sumanthkatta-dev/ContextBridge-AI) | MCP server that gives LLM clients retrieval over your documents | Python, FastMCP, ChromaDB |
 | [**Airlock**](https://github.com/sumanthkatta-dev/airlock-dlp-security) | Chrome extension that stops API keys and PII from being pasted into public LLMs | JavaScript, Chrome Extensions (MV3) |
+| [**Claude Island**](https://github.com/sumanthkatta-dev/claude-island) | Dynamic Island-style pill for Windows showing Claude usage limits and reset times | Electron, JavaScript |
 
 ### Tech I use
 - **Languages:** Python · TypeScript · JavaScript · Java (learning)
